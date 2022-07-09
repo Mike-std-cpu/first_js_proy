@@ -1,0 +1,19 @@
+{
+  "name": "first_js_proy",
+  "version": "1.0.0",
+  "description": "Proyect in js with structure",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mike-std-cpu/first_js_proy.git"
+  },
+  "author": "Miguel Andrade",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mike-std-cpu/first_js_proy/issues"
+  },
+  "homepage": "https://github.com/Mike-std-cpu/first_js_proy#readme"
+}
