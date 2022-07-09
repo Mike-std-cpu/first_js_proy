@@ -9,3 +9,4 @@ describe("Caso de prueba 1 de clase Ajolonauta", () => {
         expect(ajo2.name).toBe("Woopa");
     })
 })
+// min 50:34 live 1 weekly 3
