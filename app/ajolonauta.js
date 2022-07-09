@@ -1,6 +1,7 @@
 class Ajolonauta{
-    constructor(name){
+    constructor(name, course){
         this.name = name;
+        this.course = course;
     }
 }
 
