@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Mike-std-cpu/first_js_proy/issues"
   },
-  "homepage": "https://github.com/Mike-std-cpu/first_js_proy#readme"
+  "homepage": "https://github.com/Mike-std-cpu/first_js_proy#readme",
+  "devDependencies": {
+    "jest": "^28.1.2"
+  }
 }
